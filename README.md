@@ -4,12 +4,13 @@
 -  🌱 I’m currently learning JavaScript and CSS
 -  😁 I am a beginner..
 
-Also try my Repos|Links
+Try my Repos|Links
 -----------------|-----
 Python Hand Volume Changer|[Python Hand Volume Changer](https://github.com/srinikesh2929/python-hand-volume-changer)
 Square Race|[Square Race](https://github.com/srinikesh2929/square-race)
 Calculator Web App |[Calculator App](https://github.com/srinikesh2929/Calculator_App)
-AnimatedCssNavBar|[AnimatedCssNavBar](https://github.com/srinikesh2929/responsive-navbar)
+Srinikesh Pet store|[Srinikesh Pet store](https://github.com/srinikesh2929/A_Pet_store_project)
+Animated Css Nav Bar|[AnimatedCssNavBar](https://github.com/srinikesh2929/responsive-navbar)
 
 ### **Also star my repos..**
 <!---
