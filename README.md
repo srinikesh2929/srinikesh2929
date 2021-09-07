@@ -11,6 +11,7 @@ Square Race|[Square Race](https://github.com/srinikesh2929/square-race)
 Calculator Web App |[Calculator App](https://github.com/srinikesh2929/Calculator_App)
 Srinikesh Pet store|[Srinikesh Pet store](https://github.com/srinikesh2929/A_Pet_store_project)
 Animated Css Nav Bar|[AnimatedCssNavBar](https://github.com/srinikesh2929/responsive-navbar)
+Skeletal code for Web development | [Skeletal code for Web development](https://github.com/srinikesh2929/Skeletal_code_for_web_development)
 
 ### **Also star my repos..**
 <!---
