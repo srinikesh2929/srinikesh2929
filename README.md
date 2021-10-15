@@ -6,6 +6,7 @@
 
 Try my Repos|Links
 -----------------|-----
+Weather Now | [Weather Now](https://weather-now.pages.dev)
 Python Hand Volume Changer|[Python Hand Volume Changer](https://github.com/srinikesh2929/python-hand-volume-changer)
 Square Race|[Square Race](https://github.com/srinikesh2929/square-race)
 Calculator Web App |[Calculator App](https://github.com/srinikesh2929/Calculator_App)
