@@ -1,7 +1,7 @@
 # Hi there !!
 -  👋 Hi, I’m S Srinikesh @srinikesh2929
 -  👀 I’m interested in Coding and Music
--  🌱 I’m currently learning JavaScript and CSS
+-  🌱 I’m currently learning JavaScript, CSS and Python
 -  😁 I am a beginner..
 
 Try my Repos|Links
@@ -14,7 +14,6 @@ Srinikesh Pet store|[Srinikesh Pet store](https://github.com/srinikesh2929/A_Pet
 Animated Css Nav Bar|[AnimatedCssNavBar](https://github.com/srinikesh2929/responsive-navbar)
 Skeletal code for Web development | [Skeletal code for Web development](https://github.com/srinikesh2929/Skeletal_code_for_web_development)
 
-### **Also star my repos..**
 <!---
 srinikesh2929/srinikesh2929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
