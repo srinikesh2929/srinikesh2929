@@ -3,7 +3,9 @@
 -  👀 I’m interested in Coding and Music
 -  🌱 I’m currently learning JavaScript, CSS and Python
 -  😁 I am a beginner..
-
+## Also find me on 
+------------------
+[![Replit](https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@srinikesh2929)
 Try my Repos|Links
 -----------------|-----
 Weather Now | [Weather Now](https://weather-now.pages.dev)
