@@ -1,8 +1,8 @@
 # Hi there !!
 -  👋 Hi, I’m S Srinikesh @srinikesh2929
--  👀 I’m interested in Coding and Music
--  🌱 I’m currently learning JavaScript, CSS and Python
--  😁 I am a beginner..
+-  👀 I am coding for nearly one year
+-  🌱 I’m currently learning Android development 
+-  😁 I am a teen coder
 ## Find me on 
 [![Google Developer](https://img.shields.io/badge/Google_Dev-100000?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/hivecodr)
 [![Replit](https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@srinikesh2929)
