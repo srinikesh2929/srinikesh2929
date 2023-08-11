@@ -1,7 +1,7 @@
 # Hi there !!
 -  👋 Hi, I’m S Srinikesh @srinikesh2929
 -  👀 I am coding for nearly one year
--  🌱 I’m currently learning Python
+-  🌱 I’m currently learning Advanced Python
 -  😁 I am a teen coder
 ## Find me on 
 [![Google Developer](https://img.shields.io/badge/Google_Dev-100000?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/hivecodr)
