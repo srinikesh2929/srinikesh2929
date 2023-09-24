@@ -1,6 +1,6 @@
 # Hi there !!
 -  👋 Hi, I’m S Srinikesh @srinikesh2929
--  👀 I am coding for nearly one year
+-  👀 2 years of coding
 -  🌱 I’m currently learning Advanced Python
 -  😁 I am a teen coder
 ## Find me on 
