@@ -4,7 +4,7 @@
 -  🌱 I’m currently learning Advanced Python
 -  😁 I am a teen coder
 ## Find me on 
-[![Google Developer](https://img.shields.io/badge/Google_Dev-100000?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/hivecodr)
+[![Google Developer](https://img.shields.io/badge/Google_Dev-100000?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/srinikesh)
 [![Replit](https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@srinikesh2929)
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-100000?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/srinikesh2929)
 
