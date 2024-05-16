@@ -1,6 +1,6 @@
 # Hi there !!
 -  👋 Hi, I’m S Srinikesh @srinikesh2929
--  👀 2 years of coding
+-  👀 3 years of coding
 -  🌱 I’m currently learning Advanced Python
 -  😁 I am a teen coder
 ## Find me on 
@@ -10,6 +10,7 @@
 
 Try my Repos|Links
 -----------------|-----
+Rock Paper Scissors | [Rock Paper Scissors](https://srinikesh2929.github.io/rock-paper-scissors/)
 Weather Now | [Weather Now](https://weather-now.pages.dev)
 Python Hand Volume Changer|[Python Hand Volume Changer](https://github.com/srinikesh2929/python-hand-volume-changer)
 Square Race|[Square Race](https://github.com/srinikesh2929/square-race)
